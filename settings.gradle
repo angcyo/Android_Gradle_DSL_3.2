@@ -1,0 +1,1 @@
+include ':java_plugin_gradle', ':android_lib_plugin_gradle', ':android_app_plugin_gradle'
