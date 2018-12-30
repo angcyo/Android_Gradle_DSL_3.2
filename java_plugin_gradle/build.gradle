@@ -6,3 +6,11 @@ dependencies {
 
 sourceCompatibility = "6"
 targetCompatibility = "6"
+
+def plugin = project.getPlugins().findPlugin('java-library')
+println plugin
+
+
+com.android.build.gradle.LibraryPlugin
+
+org.gradle.api.plugins.JavaLibraryPlugin
