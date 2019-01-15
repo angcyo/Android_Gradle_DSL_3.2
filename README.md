@@ -1,3 +1,10 @@
+# 2019-01-15
+[废弃]
+
+仓库中包含,很多无效的文件, 占用大量空间.
+
+整理轻量后, 请移步到 [Android_Gradle_DSL_3.3](https://github.com/angcyo/Android_Gradle_DSL_3.3)
+
 # Android_Gradle_DSL_3.2
 gradle android dsl 3.2 源码分析
 
