@@ -48,6 +48,17 @@ apply plugin: 'com.android.library'
 C:/Users/用户/.gradle/caches/modules-2/files-2.1/com.android.tools.build
 ```
 
+还有可能出现在:
+**MAC**
+```
+‎⁨硬盘⁩ ▸ ⁨应用程序⁩ ▸ ⁨Android Studio.app⁩ ▸ ⁨Contents⁩ ▸ ⁨gradle⁩ ▸ ⁨m2repository⁩ ▸ ⁨com⁩ ▸ ⁨android⁩ ▸ ⁨tools⁩ ▸ ⁨build⁩ ▸ ⁨gradle⁩ ▸ ⁨3.3.0⁩
+```
+**Win**
+```
+AS安装目录/⁨gradle⁩/⁨m2repository⁩/⁨com⁩/⁨android⁩/⁨tools⁩/build⁩/gradle⁩/⁨3.3.0⁩
+```
+
+
 # 实战练习
 ## 修改APK输出路径,和APK文件名.
 我们在配置`Android`相关的信息时, 通常都是在:
